@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Order.API.Controllers.OrdersController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createOrder",
+        "Type": "Order.API.ViewModels.CreateOrderVM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

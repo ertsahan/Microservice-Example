@@ -1,0 +1,2 @@
+D:\.NETRepo\Microservices.Example\Stock.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\.NETRepo\Microservices.Example\Stock.API\obj\Debug\net9.0\staticwebassets.build.json
